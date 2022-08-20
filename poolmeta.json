@@ -1,0 +1,7 @@
+{
+"name":"AssurancePool",
+"ticker":"ASTCH",
+"description":"Assurance Tech Pool",
+"homepage":"http://pool.astch.com","nonce":"1644017618"
+"extended": "https://raw.githubusercontent.com/gusosborne/cnode/main/extended.json"
+}
