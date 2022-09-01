@@ -1,20 +1,23 @@
 {
-    "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/gusosborne/cnode/main/ASTCH64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/gusosborne/cnode/main/ASTCH.png",
-        "location": "Alabama | USA"
-        },
-        "company": {
-            "name": "Assurance Pool",
-            "addr": "",
-            "city": "Mobile",
-            "country": "USA"
-        },
-        "about": {
-            "me": "Locally owned and operated by partners and employees of a small IT shop in Mobile, AL USA. Specializing in open-source network support, for small to medium sized businesses along the Gulf Coast.",
-            "server": "Redundant 1Gbps fiber feeds, Quad Core Xeon, 20GB RAM dedicated servers; hosted in our very own, small, private datacenter. We have 3 relay nodes (1 unlisted) in 2 separate locations and spare block producer at each site."
-        },
-    "my-pool-ids": {
-        "0": "029378e3fa199ee6510325406a7eb7d5001927c6294db06b53049499"
-      }
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/gusosborne/cnode/main/ASTCH64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/gusosborne/cnode/main/ASTCH.png",
+		"location": "Alabama | USA"
+	},
+
+	"company": {
+		"name": "Assurance Pool",
+		"addr": "",
+		"city": "Mobile",
+		"country": "USA"
+	},
+
+	"about": {
+		"me": "Locally owned and operated by partners and employees of a small IT shop in Mobile, AL USA. Specializing in open-source network support, for small to medium sized businesses along the Gulf Coast.",
+		"server": "Redundant 1Gbps fiber feeds, Quad Core Xeon, 20GB RAM dedicated servers; hosted in our very own, small, private datacenter. We have 3 relay nodes (1 unlisted) in 2 separate locations and spare block producer at each site."
+	},
+
+	"my-pool-ids": {
+		"0": "029378e3fa199ee6510325406a7eb7d5001927c6294db06b53049499"
+	}
 }
