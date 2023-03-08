@@ -4,6 +4,9 @@
         "url_png_logo": "https://raw.githubusercontent.com/gusosborne/cnode/main/ASTCH.png",
         "location": "Alabama | USA"
         },
+        "social": {
+            "discord_handle": "https://discord.gg/9SHevFYM"
+        },
         "company": {
             "name": "Assurance Pool",
             "addr": "",
